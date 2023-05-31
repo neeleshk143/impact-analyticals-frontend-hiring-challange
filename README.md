@@ -1,1 +1,1 @@
-# impact-analyticals-frontend-hiring-challange
+# impact-analyticals-frontend-hiring-challenge
