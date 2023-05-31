@@ -1,0 +1,9 @@
+.fixed-buttons-container {
+  position: sticky;
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: #fff;
+  padding: 10px;
+  z-index: 999;
+}
